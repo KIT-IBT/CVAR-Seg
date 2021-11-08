@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+title: CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution
+message: "Please cite this software using the metadata from 'preferred-citation'."
+authors: 
+  - given-names: Mark
+    family-names: Nothstein
+    affiliation: Karlsruhe Institute of Technology (KIT)
+  - given-names: Armin
+    family-names: Luik
+    affiliation: Städtisches Klinikum Karlsruhe
+  - given-names: Amir
+    family-names: Jadidi
+    affiliation: University Heart Center Freiburg-Bad Krozingen
+    orcid: https://orcid.org/0000-0002-6402-2845
+  - given-names: Jorge
+    family-names: Sánchez
+    affiliation: Karlsruhe Institute of Technology (KIT)
+    orcid: https://orcid.org/0000-0002-0824-2691
+  - given-names: Laura A.
+    family-names: Unger
+    affiliation: Karlsruhe Institute of Technology (KIT)
+    orcid: https://orcid.org/0000-0002-5614-1983
+  - given-names: Eike M.
+    family-names: Wülfers
+    affiliation: University Heart Center Freiburg-Bad Krozingen
+    orcid: https://orcid.org/0000-0002-8292-6514  
+  - given-names: Olaf
+    family-names: Dössel
+    affiliation: Karlsruhe Institute of Technology (KIT)
+    orcid: https://orcid.org/0000-0003-4551-7970
+  - given-names: Gunnar
+    family-names: Seemann
+    affiliation: University Heart Center Freiburg-Bad Krozingen
+    orcid: https://orcid.org/0000-0001-7111-7992
+  - given-names: Claus
+    family-names: Schmitt
+    affiliation: Städtisches Klinikum Karlsruhe
+  - given-names: Axel
+    family-names: Loewe
+    email: axel.loewe@kit.edu
+    affiliation: Karlsruhe Institute of Technology (KIT)
+    orcid: https://orcid.org/0000-0002-2487-4744  
+version: all
+date-released: 2021-02-27
+license: GPL-3.0-or-later
+repository-code: https://github.com/KIT-IBT/CVAR-Seg
+preferred-citation:
+ type: article
+ doi: 10.3389/fphys.2021.673047
+ title: CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution
+ authors:
+   - given-names: Mark
+     family-names: Nothstein
+   - given-names: Armin
+     family-names: Luik
+   - given-names: Amir
+     family-names: Jadidi
+   - given-names: Jorge
+     family-names: Sánchez
+   - given-names: Laura A.
+     family-names: Unger
+   - given-names: Eike M.
+     family-names: Wülfers
+   - given-names: Olaf
+     family-names: Dössel
+   - given-names: Gunnar
+     family-names: Seemann
+   - given-names: Claus
+     family-names: Schmitt
+   - given-names: Axel
+     family-names: Loewe
+ journal: Frontiers in Physiology
+ year: 2021
+ volume: 12
+ pages: 673047

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution
+title: "CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution"
 message: "Please cite this software using the metadata from 'preferred-citation'."
 authors: 
   - given-names: Mark
@@ -47,7 +47,7 @@ repository-code: https://github.com/KIT-IBT/CVAR-Seg
 preferred-citation:
  type: article
  doi: 10.3389/fphys.2021.673047
- title: CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution
+ title: "CVAR-Seg: An Automated Signal Segmentation Pipeline for Conduction Velocity and Amplitude Restitution"
  authors:
    - given-names: Mark
      family-names: Nothstein
